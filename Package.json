@@ -11,12 +11,12 @@
     "socket.io": "^4.7.2"
   },
   "engines": {
-    "node": "14.x"
+    "node": "18.x"
   },
-  "license": "MIT",
   "keywords": [
     "chat",
     "socket.io",
     "express"
-  ]
+  ],
+  "license": "MIT"
 }
